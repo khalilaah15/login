@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301047539444",
+    "project_id": "ukk-terbaru",
+    "storage_bucket": "ukk-terbaru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301047539444:android:b7d0dc4be3f9886df0e0a1",
+        "android_client_info": {
+          "package_name": "com.smktelkom.ukkterbaru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2P4eIabD_fHKOfS8gUaUfH052Sjww4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
